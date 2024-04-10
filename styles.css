@@ -1,18 +1,18 @@
 /* styles.css */
 
 #button {
-    background-color: #8a2be2; /* Mov */
-    color: white;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 16px;
-    transition: background-color 0.3s ease;
+  background-image: linear-gradient(to right, #8a2be2, #6a1e9a);
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: all 0.3s ease;
 }
 
 #button:hover {
-    background-color: #6a1e9a; 
+  background-image: linear-gradient(to right, #6a1e9a, #8a2be2);
 }
 
 
