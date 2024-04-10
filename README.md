@@ -1,4 +1,4 @@
-# BR- Managementul Datelor Personale
+# Managementul Datelor Personale
 
 # Task 3
 Urmărind instrucțiunile pentru GitHub Pages  creați o nouă pagina de proiect (.html) folosind template-ul „Minimal”; GitHub Pages .
@@ -24,12 +24,5 @@ Pentru a vedea fisierul cu cookies dati click [aici](task4.html).
 [![Mozilla Exemplu 6](https://img.shields.io/badge/Mozilla%20Exemplu%206-blue)](mozillaex6.html)
 
 
-## Template folosit
-- [Minimal]
-
-
-## Link-ul pe care tocmai l-ati accesat 
-
-1. [https://balc-radu.github.io/]
 
 
